@@ -1,0 +1,1 @@
+http://docker.io/sllakshancc/crop-price-api:latest
